@@ -230,7 +230,7 @@ I've just got so tired of thinking about Web Components and how hard they make i
 
 **Break:** \[43:38\]
 
-**Amal Hussein:** Rich, thank you for walking us through part one of hot topics in the open source community. It's like a never-ending story. Actually, Amelia, remember you and I were preparing for this show earlier today? I think you said something really funny; do you wanna share it? That he's like the kind of hot takes... \[laughs\]
+**Amal Hussein:** Rich, thank you for walking us through part one of hot topics in the open source community. It's like a never-ending story. Actually, Amelia, remember you and I were preparing for this show earlier today? I think you said something really funny; do you wanna share it? That he's like the king of hot takes... \[laughs\]
 
 **Amelia Wattenberger:** Oh, they're actually filming a Svelte documentary, which I think we can talk about...
 
